@@ -1,0 +1,22 @@
+[
+   {
+      "id":1,
+      "price":20.00,
+      "description":"produto 1"
+   },
+   {
+      "id":2,
+      "price":30.00,
+      "description":"produto 2"
+   },
+   {
+      "id":3,
+      "price":40.00,
+      "description":"produto 3"
+   },
+   {
+      "id":4,
+      "price":50.00,
+      "description":"produto 4"
+   }
+]

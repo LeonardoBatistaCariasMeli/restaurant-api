@@ -1,0 +1,1 @@
+[{"id":2,"tableId":1,"orderDishes":[{"orderId":2,"dish":{"id":1,"price":20.0,"description":"produto 1"},"quantity":5},{"orderId":2,"dish":{"id":2,"price":30.0,"description":"produto 2"},"quantity":3},{"orderId":2,"dish":{"id":3,"price":40.0,"description":"produto 3"},"quantity":2}],"totalValue":270.0,"stats":2}]
